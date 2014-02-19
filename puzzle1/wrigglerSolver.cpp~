@@ -1,0 +1,24 @@
+/*******************************************************************************
+* @file wrigglerSolver.h
+* @author Matthew Anderson <mia2n4>
+* @version 1.0
+* @brief function definition file of class which contains functions to solve the 
+         wriggler puzzle
+*******************************************************************************/
+
+#include "wrigglerSolver.h"
+
+void WrigglerSolver::solveBFTS(Puzzle p)
+{
+  m_frontier.push(p);
+  
+  while(!m_frontier.front().isSolved())
+  {
+    //test each direction
+    for(int i = 0; i < 4; i++)
+    {
+      m_frontier.push(p.moveHead(
+    }
+  }
+}
+

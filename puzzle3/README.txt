@@ -1,0 +1,1 @@
+Compiles with "g++ *.cpp"

@@ -1,0 +1,25 @@
+/*******************************************************************************
+* @file tree.h
+* @author Matthew Anderson <mia2n4>
+* @version 1.0
+* @brief class definition for tree data structure to be used in the wriggler 
+         problem
+*******************************************************************************/
+
+#ifndef TREENODE_H
+#define TREE_H
+
+#include <cstlib>
+using namespace std;
+
+template <class T>
+class Tree
+{
+  private:
+    vector<TreeNode<T>> m_nodes;
+    
+  public:
+    
+};
+
+#endif

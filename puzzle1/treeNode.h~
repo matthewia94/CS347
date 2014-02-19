@@ -1,0 +1,29 @@
+/*******************************************************************************
+* @file treeNode.h
+* @author Matthew Anderson <mia2n4>
+* @version 1.0
+* @brief class definition for tree node data structure to be used in the 
+         wriggler problem
+*******************************************************************************/
+
+#ifndef TREENODE_H
+#define TREENODE_H
+
+template <class T>
+class TreeNode
+{
+  private:
+    T* m_parent;
+    
+  public:
+    ~TreeNode()
+    {
+      delete m_parent;
+    }
+    T getParent()
+    {
+      return *m_parent;
+    }
+};
+
+#endif
