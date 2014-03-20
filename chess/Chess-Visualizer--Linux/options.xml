@@ -1,0 +1,69 @@
+<options>
+  <option>
+    <key>Arena Server</key>
+    <type>String</type>
+    <value>r99acm.device.mst.edu</value>
+  </option>
+  <option>
+    <key>Check For Updates</key>
+    <type>Integer</type>
+    <value>1</value>
+    <minvalue>0</minvalue>
+    <maxvalue>1</maxvalue>
+  </option>
+  <option>
+    <key>Continuous Play</key>
+    <type>Integer</type>
+    <value>1</value>
+    <minvalue>0</minvalue>
+    <maxvalue>1</maxvalue>
+  </option>
+  <option>
+    <key>Game Mode</key>
+    <type>Combo</type>
+    <value>Normal</value>
+    <combos>
+      <op>Normal</op>
+      <op>Arena</op>
+      <op>Demo</op>
+    </combos>
+  </option>
+  <option>
+    <key>Help URL</key>
+    <type>String</type>
+    <value>ftp://r99acm.device.mst.edu:2121/manual/index.html</value>
+  </option>
+  <option>
+    <key>Presentation Fullscreen</key>
+    <type>Integer</type>
+    <value>0</value>
+    <minvalue>0</minvalue>
+    <maxvalue>1</maxvalue>
+  </option>
+  <option>
+    <key>Show Debug Window On Start</key>
+    <type>Integer</type>
+    <value>1</value>
+    <minvalue>0</minvalue>
+    <maxvalue>1</maxvalue>
+  </option>
+  <option>
+    <key>Spectate Server</key>
+    <type>String</type>
+    <value>chess-server.mnuck.com</value>
+  </option>
+  <option>
+    <key>Speed</key>
+    <type>Float</type>
+    <value>8</value>
+    <minvalue>0.01</minvalue>
+    <maxvalue>50</maxvalue>
+  </option>
+  <option>
+    <key>Use FBO</key>
+    <type>Integer</type>
+    <value>1</value>
+    <minvalue>0</minvalue>
+    <maxvalue>1</maxvalue>
+  </option>
+</options>

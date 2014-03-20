@@ -1,0 +1,265 @@
+MESSAGE: Arena Server:r99acm.device.mst.edu
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Check For Updates:1
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Continuous Play:1
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Game Mode:Normal
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Help URL:ftp://r99acm.device.mst.edu:2121/manual/index.html
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Presentation Fullscreen:0
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Show Debug Window On Start:1
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Spectate Server:chess-server.mnuck.com
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Speed:8
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Use FBO:1
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: ============Initializing TimeManager=======
+File: lib/timemanager/timeManager.cpp Line: 34
+
+MESSAGE: ============Initializing Resource Manager=======
+File: main.cpp Line: 57
+
+MESSAGE: ============Initializing Texture Loader=======
+File: main.cpp Line: 63
+
+MESSAGE: ============Initializing Animation Engine=======
+File: main.cpp Line: 69
+
+MESSAGE: ============Setting Up GUI=======
+File: lib/gui/gui.cpp Line: 477
+
+MESSAGE: ============Initializing the Renderer=======
+File: lib/gui/renderwidget.cpp Line: 14
+
+MESSAGE: ============Initializing OpenGL=======
+File: lib/gui/renderwidget.cpp Line: 27
+
+MESSAGE: ============System OpenGL Information=======
+File: lib/renderer/renderer.cpp Line: 258
+
+MESSAGE: Shader Support: 1
+File: lib/renderer/renderer.cpp Line: 259
+
+MESSAGE: FBO Support: 1
+File: lib/renderer/renderer.cpp Line: 260
+
+MESSAGE: OpenGL Vendor: Intel Open Source Technology Center
+File: lib/renderer/renderer.cpp Line: 261
+
+MESSAGE: OpenGL Renderer: Mesa DRI Intel(R) Ivybridge Mobile 
+File: lib/renderer/renderer.cpp Line: 262
+
+MESSAGE: OpenGL Version: 3.0 Mesa 9.1.7
+File: lib/renderer/renderer.cpp Line: 263
+
+MESSAGE: GLSL Version: 1.30
+File: lib/renderer/renderer.cpp Line: 264
+
+MESSAGE: Max GLSL Textures: 32
+File: lib/renderer/renderer.cpp Line: 265
+
+MESSAGE: Extensions Supported: 
+File: lib/renderer/renderer.cpp Line: 266
+
+GL_ARB_multisample GL_EXT_abgr GL_EXT_bgra GL_EXT_blend_color GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_copy_texture GL_EXT_polygon_offset GL_EXT_subtexture GL_EXT_texture_object GL_EXT_vertex_array GL_EXT_compiled_vertex_array GL_EXT_texture GL_EXT_texture3D GL_IBM_rasterpos_clip GL_ARB_point_parameters GL_EXT_draw_range_elements GL_EXT_packed_pixels GL_EXT_point_parameters GL_EXT_rescale_normal GL_EXT_separate_specular_color GL_EXT_texture_edge_clamp GL_SGIS_generate_mipmap GL_SGIS_texture_border_clamp GL_SGIS_texture_edge_clamp GL_SGIS_texture_lod GL_ARB_framebuffer_sRGB GL_ARB_multitexture GL_EXT_framebuffer_sRGB GL_IBM_multimode_draw_arrays GL_IBM_texture_mirrored_repeat GL_3DFX_texture_compression_FXT1 GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_transpose_matrix GL_EXT_blend_func_separate GL_EXT_fog_coord GL_EXT_multi_draw_arrays GL_EXT_secondary_color GL_EXT_texture_env_add GL_EXT_texture_filter_anisotropic GL_EXT_texture_lod_bias GL_INGR_blend_func_separate GL_NV_blend_square GL_NV_light_max_exponent GL_NV_texgen_reflection GL_NV_texture_env_combine4 GL_S3_s3tc GL_SUN_multi_draw_arrays GL_ARB_texture_border_clamp GL_ARB_texture_compression GL_EXT_framebuffer_object GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_MESA_window_pos GL_NV_packed_depth_stencil GL_NV_texture_rectangle GL_ARB_depth_texture GL_ARB_occlusion_query GL_ARB_shadow GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_mirrored_repeat GL_ARB_window_pos GL_ATI_envmap_bumpmap GL_EXT_stencil_two_side GL_EXT_texture_cube_map GL_NV_depth_clamp GL_APPLE_packed_pixels GL_APPLE_vertex_array_object GL_ARB_draw_buffers GL_ARB_fragment_program GL_ARB_fragment_shader GL_ARB_shader_objects GL_ARB_vertex_program GL_ARB_vertex_shader GL_ATI_draw_buffers GL_ATI_texture_env_combine3 GL_ATI_texture_float GL_EXT_shadow_funcs GL_EXT_stencil_wrap GL_MESA_pack_invert GL_MESA_ycbcr_texture GL_NV_primitive_restart GL_ARB_depth_clamp GL_ARB_fragment_program_shadow GL_ARB_half_float_pixel GL_ARB_occlusion_query2 GL_ARB_point_sprite GL_ARB_shading_language_100 GL_ARB_sync GL_ARB_texture_non_power_of_two GL_ARB_vertex_buffer_object GL_ATI_blend_equation_separate GL_EXT_blend_equation_separate GL_OES_read_format GL_ARB_color_buffer_float GL_ARB_pixel_buffer_object GL_ARB_texture_compression_rgtc GL_ARB_texture_float GL_ARB_texture_rectangle GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_rectangle GL_EXT_texture_sRGB GL_EXT_texture_shared_exponent GL_ARB_framebuffer_object GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_packed_depth_stencil GL_APPLE_object_purgeable GL_ARB_vertex_array_object GL_ATI_separate_stencil GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_gpu_program_parameters GL_EXT_texture_array GL_EXT_texture_integer GL_EXT_texture_sRGB_decode GL_EXT_timer_query GL_OES_EGL_image GL_MESA_texture_array GL_ARB_copy_buffer GL_ARB_depth_buffer_float GL_ARB_draw_instanced GL_ARB_half_float_vertex GL_ARB_instanced_arrays GL_ARB_map_buffer_range GL_ARB_texture_rg GL_ARB_texture_swizzle GL_ARB_vertex_array_bgra GL_EXT_separate_shader_objects GL_EXT_texture_swizzle GL_EXT_vertex_array_bgra GL_NV_conditional_render GL_AMD_draw_buffers_blend GL_ARB_ES2_compatibility GL_ARB_blend_func_extended GL_ARB_debug_output GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_explicit_attrib_location GL_ARB_fragment_coord_conventions GL_ARB_provoking_vertex GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_shader_texture_lod GL_ARB_texture_cube_map_array GL_ARB_texture_rgb10_a2ui GL_ARB_uniform_buffer_object GL_ARB_vertex_type_2_10_10_10_rev GL_EXT_provoking_vertex GL_EXT_texture_snorm GL_MESA_texture_signed_rgba GL_ARB_get_program_binary GL_ARB_robustness GL_ARB_shader_bit_encoding GL_ARB_timer_query GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_internalformat_query GL_ARB_shading_language_packing GL_ARB_texture_storage GL_EXT_transform_feedback GL_ARB_ES3_compatibility GL_ARB_invalidate_subdata 
+MESSAGE: ============System OpenGL Information=======
+File: lib/renderer/renderer.cpp Line: 269
+
+MESSAGE: Finished Resizing
+File: lib/renderer/renderer.cpp Line: 286
+
+MESSAGE: Pre-Render Check
+File: lib/renderer/renderer.cpp Line: 307
+
+MESSAGE: Post-Render Check
+File: lib/renderer/renderer.cpp Line: 311
+
+MESSAGE: Pre-FBO Setup
+File: lib/renderer/renderer.cpp Line: 333
+
+MESSAGE: Post-FBO Setup
+File: lib/renderer/renderer.cpp Line: 366
+
+MESSAGE: Renderer Initialized!
+File: lib/renderer/renderer.cpp Line: 369
+
+MESSAGE: ============Renderer Initialized=======
+File: lib/gui/renderwidget.cpp Line: 18
+
+MESSAGE: ============Creating Actions=======
+File: lib/gui/gui.cpp Line: 490
+
+MESSAGE: ============Building Controlbar=======
+File: lib/gui/gui.cpp Line: 492
+
+MESSAGE: ============Building Updatebar=======
+File: lib/gui/gui.cpp Line: 494
+
+MESSAGE: ============Creating Menus=======
+File: lib/gui/gui.cpp Line: 499
+
+MESSAGE: ============Build Toolset=======
+File: lib/gui/gui.cpp Line: 501
+
+MESSAGE: ============Set Window State=======
+File: lib/gui/gui.cpp Line: 528
+
+MESSAGE: ============Show Window=======
+File: lib/gui/gui.cpp Line: 535
+
+MESSAGE: ============Home Path=======
+File: lib/gui/gui.cpp Line: 538
+
+MESSAGE: : /home/matt
+File: lib/gui/gui.cpp Line: 540
+
+MESSAGE: ============Checking For Updates=======
+File: lib/gui/gui.cpp Line: 543
+
+MESSAGE: ============Setting Up Plugins=======
+File: lib/games/games.cpp Line: 29
+
+MESSAGE: ============Plugins Are Initialized=======
+File: lib/games/games.cpp Line: 95
+
+MESSAGE: Password:password
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Port Number:19000
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Rotate Board:0
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Tile Color:3
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Username:Shell AI
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Starting The Time Manager
+File: main.cpp Line: 101
+
+MESSAGE: Executing the App
+File: main.cpp Line: 104
+
+MESSAGE: Local Side MD5 Compare Sum Not Found: checkList.md5
+File: lib/gui/gui.cpp Line: 420
+
+MESSAGE: Local Side MD5 Compare Sum Not Found: ./plugins/chess/checkList.md5
+File: lib/gui/gui.cpp Line: 420
+
+MESSAGE: Password:password
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Port Number:19000
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Rotate Board:0
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Tile Color:3
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Username:Shell AI
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Password:password
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Port Number:19000
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Rotate Board:0
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Tile Color:3
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Username:Shell AI
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Local Side MD5 Compare Sum Not Found: ./plugins/chess/checkList.md5
+File: lib/gui/gui.cpp Line: 420
+
+MESSAGE: Local Side MD5 Compare Sum Not Found: ./plugins/chess/checkList.md5
+File: lib/gui/gui.cpp Line: 420
+
+MESSAGE: Password:password
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Port Number:19000
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Rotate Board:0
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Tile Color:3
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Username:Shell AI
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Password:password
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Port Number:19000
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Rotate Board:0
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Tile Color:3
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Username:Shell AI
+File: lib/optionsmanager/optionsman.cpp Line: 97
+
+MESSAGE: Local Side MD5 Compare Sum Not Found: ./plugins/chess/checkList.md5
+File: lib/gui/gui.cpp Line: 420
+
+MESSAGE: Local Side MD5 Compare Sum Not Found: ./plugins/chess/checkList.md5
+File: lib/gui/gui.cpp Line: 420
+
+MESSAGE: Destroying Games...
+File: main.cpp Line: 107
+
+MESSAGE: Destroying Animation Engine...
+File: main.cpp Line: 109
+
+MESSAGE: Destroying Texture Loader...
+File: main.cpp Line: 111
+
+MESSAGE: Destroying Resource Manager...
+File: main.cpp Line: 113
+
+MESSAGE: Destroying GUI...
+File: main.cpp Line: 115
+
+MESSAGE: Destroying Renderer...
+File: main.cpp Line: 117
+
+MESSAGE: Destroying Time...
+File: main.cpp Line: 119
+
+MESSAGE: Destroying Options Manager...
+File: main.cpp Line: 121
+
+MESSAGE: Exit Successful!
+File: main.cpp Line: 125
+
